@@ -1,0 +1,6 @@
+# Build folder
+/target
+
+# others
+resume.pdf
+resume_compressed.pdf
