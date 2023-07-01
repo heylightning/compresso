@@ -16,6 +16,8 @@ cd compresso
 cargo run <name-of-the-file-you-want-to-compress> <name-of-the-compressed-file>
 ```
 
+*Note: These requirements are staged for version 0.1.0*
+
 ### LICENSE
 MIT License
 
