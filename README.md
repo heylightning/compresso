@@ -1,4 +1,4 @@
-# Description
+# Description 📄
 
 Compress your files.
 
