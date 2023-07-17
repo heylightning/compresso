@@ -3,22 +3,29 @@
 Compress your files.
 
 ## Run src/main.rs file: -
+
 1. Clone the repository using this command:
+
 ```
 git clone <repo-link>
 ```
-2. Change directory to ` compresso `:
+
+2. Change directory to `compresso`:
+
 ```
 cd compresso
 ```
+
 3. Run **src/main.rs** file:
+
 ```
 cargo run <name-of-the-file-you-want-to-compress> <name-of-the-compressed-file>
 ```
 
-*Note: These requirements are staged for version 0.1.0*
+_Note: These requirements are staged for version 0.1.0_
 
 ### LICENSE
+
 MIT License
 
 Copyright (c) 2023 Pratham - heylightning/compresso
